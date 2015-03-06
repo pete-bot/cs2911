@@ -1,0 +1,11 @@
+// peter kydd
+// a program to apply if and case statements to java 
+
+public class Clock {
+
+	public static void main(String[] args){
+		
+		
+	}
+	
+}

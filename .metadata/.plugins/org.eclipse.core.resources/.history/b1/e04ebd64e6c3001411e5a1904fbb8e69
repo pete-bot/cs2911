@@ -1,0 +1,24 @@
+// peter kydd
+// detect and print out the number of, and totality of the entered arguments
+// arguments in eclipse can be entered with
+// rightclick on "Arguments.java" -> "run as" -> "Run Config.." -> args tab (middle) -> [enter desired args] -> execute
+
+
+public class Arguments {
+	
+	
+	public static void main(String[] args)
+	{
+	
+		int numArguments;
+		numArguments = args.length;
+		System.out.println("There were "+numArguments+" arguments.");
+		
+		if(numArguments > 0){
+			System.out.println("They were:");
+			for (int i = 0; i< numArguments; i++){
+				System.out.println(args[i]);
+			}	
+		}
+	}
+}

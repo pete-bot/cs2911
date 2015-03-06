@@ -1,0 +1,10 @@
+// a simple tool to calculate some basic maths
+// more basics
+
+public class Root {
+	public static void main(String[] args){
+		int number = 255;
+		System.out.println("the square root of number "+number+" is:");
+		
+	}
+}

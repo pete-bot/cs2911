@@ -1,0 +1,20 @@
+// peter kydd
+// a program to apply if and case statements to java 
+
+import java.time.*;
+import java.time.temporal.*;
+
+
+public class Clock {
+
+	public static void main(String[] args){
+		//get current time and date
+		LocalDateTime now = LocalDateTime.now();
+		int hour = now.get(ChronoField.HOUR_OF_DAY)
+		int minute = now.get(ChronoField.HOUR_OF_DAY)
+		int month = now.get(ChronoField.HOUR_OF_DAY)
+		int day = now.get(ChronoField.HOUR_OF_DAY)
+		int year = now.get(ChronoField.HOUR_OF_DAY)
+	}
+	
+}

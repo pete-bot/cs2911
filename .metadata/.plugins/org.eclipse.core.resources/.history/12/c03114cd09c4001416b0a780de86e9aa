@@ -1,0 +1,13 @@
+
+public class NewRoot {
+	public static void main(String[] args){
+		int number = 100;
+		
+		// check to see if there was user input
+		if()
+		
+		
+	}
+	
+	
+}

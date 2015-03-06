@@ -1,0 +1,11 @@
+// peter kydd
+// A program to represent the rolling of dice
+
+// we are using the import function to give us access to the java.util package
+// with this we can use the Random method without having to reference
+// java.ustils.Random() each time. We can instead just call Random
+import java.util.*;
+
+public class Dice {
+	
+}

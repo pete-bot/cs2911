@@ -1,0 +1,15 @@
+// peter kydd
+// a program to apply if and case statements to java 
+
+import java.time.*;
+import java.time.temporal.*;
+
+
+public class Clock {
+
+	public static void main(String[] args){
+		
+		
+	}
+	
+}
