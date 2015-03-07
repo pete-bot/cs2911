@@ -1,0 +1,21 @@
+
+public class ModemTester {
+
+	
+	public static void main(String[] args){
+		
+		CableModem cable = new CableModem();
+		DSLModem dsl = new DSLModem();
+		
+		cable.speed = 500000;
+		dsl.speed = 400000;
+		
+		System.out.println("Trying cablemodem:");
+		cable.connect();
+		
+		System.out.println("Trying dslmodem:");
+		dsl.connect();
+		
+		
+	}
+}

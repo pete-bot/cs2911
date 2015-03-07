@@ -1,0 +1,11 @@
+
+public class Modem {
+
+	 int speed;
+	 
+	 // public method that allows for teh display of teh speed value of teh modem object
+	 public void displaySpeed(){
+		 System.out.println("Speed: "+ speed);
+	 }
+	
+}

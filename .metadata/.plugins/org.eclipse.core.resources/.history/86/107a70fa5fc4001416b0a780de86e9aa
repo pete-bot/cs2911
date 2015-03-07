@@ -1,0 +1,9 @@
+
+public class ModemTester {
+
+	CableModem cable = new CableModem();
+	DSLModem dsl = new DSLModem();
+	
+	cable.speed = 500000;
+	
+}

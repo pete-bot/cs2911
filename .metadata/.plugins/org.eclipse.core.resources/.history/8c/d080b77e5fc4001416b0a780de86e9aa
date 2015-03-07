@@ -1,0 +1,8 @@
+
+public class DSLModem extends Modem{
+	String connMethod = "Digital Subscriber Line connection";
+	
+	
+	
+	
+}

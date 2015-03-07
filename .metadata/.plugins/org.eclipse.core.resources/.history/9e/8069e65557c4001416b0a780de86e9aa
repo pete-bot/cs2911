@@ -1,0 +1,8 @@
+
+public class Modem {
+
+	 int speed;
+	 
+	 
+	
+}

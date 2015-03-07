@@ -1,0 +1,13 @@
+
+public class ModemTester {
+
+	
+	public static void main(String[] args){
+		
+		CableModem cable = new CableModem();
+		DSLModem dsl = new DSLModem();
+		
+		cable.speed = 500000;
+		
+	}
+}
